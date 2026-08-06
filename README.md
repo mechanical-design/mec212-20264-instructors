@@ -2,6 +2,11 @@
 
 For instructors (In-progress)
 
+Workflow
+1. Create exercises from the Notes.
+2. Push to instructors version https://github.com/mechanical-design/mec212-20264-instructors
+3. Remove solution and push to student version https://github.com/mechanical-design/mec212-20264
+
 ## Syllabus Content
 
 **1\. Introduction To Computer Program**  
